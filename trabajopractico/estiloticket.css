@@ -1,0 +1,31 @@
+.letras{
+    color: rgb(111, 240, 25)!important;
+}
+.bg-dark{
+    background-color: rgb(61, 61, 65) !important;
+}
+
+.bg-dark1{
+    background-color: rgb(17, 57, 83);
+}
+
+.tarjetas{
+
+    
+    margin-left:20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+
+
+form{
+    margin-left:14%;
+    margin-right:14%;
+}
+
+.btn-green-light{
+    background-color:greenyellow;
+    color: white;
+    
+}

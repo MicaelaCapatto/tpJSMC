@@ -1,0 +1,59 @@
+.bg-dark{
+    background-color: rgb(61, 61, 65) !important;
+}
+
+.foto1 {
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imagenes/ba1.jpg);
+    height: 55rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+   .card-img-overlay {
+    position: absolute;
+    top: 300px;
+    right: 5px;
+    bottom: 5px;
+     left: auto;
+    padding: 1rem;
+    border-radius: calc(0.25rem - 1px);
+    width: 50%;
+    float: right !important;
+}
+
+.card1{
+    margin-top: 220px;
+    margin-right: 90px;
+}
+
+.tarjetas{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.honolulu{
+    background-color: rgb(61, 61, 65);
+    color: white;
+
+}
+.punteado{
+    text-decoration-style: dotted;
+    color: black;
+}
+.boton{
+    background-color: #8DB600 !important;
+    border-radius: 5px;
+}
+.bg-dark1{
+    background-color: rgb(17, 57, 83);
+}
+@media (max-width:800px) {
+    .card-img-overlay{
+        width: 100% !important;
+    }
+    .footer{
+        margin-bottom: 10px;
+    }
+    
+}
